@@ -6,9 +6,9 @@ title: Agent Frameworks
 
 [← Back to home](index.html)
 
-LLM-driven agents that orchestrate scientific tools. Excluded from this table: **MAPPS** (arXiv ID unverified) and **scChat** (no resolvable repository) — both flagged "not found" in the source research rather than guessed.
+LLM-driven agents that orchestrate scientific tools. Excluded from this table: **MAPPS** (arXiv ID unverified, no resolvable repository) — flagged "not found" in the source research rather than guessed.
 
-| Tool | Paper | Repo / Site |
+| Framework | Paper | Repo / Site |
 |---|---|---|
 | ChemCrow | M. Bran, Cox, Schilter, Baldassari, White & Schwaller, *Nature Machine Intelligence* 6, 525–535 (2024), DOI [10.1038/s42256-024-00832-8](https://doi.org/10.1038/s42256-024-00832-8); preprint [arXiv:2304.05376](https://arxiv.org/abs/2304.05376) | [github.com/ur-whitelab/chemcrow-public](https://github.com/ur-whitelab/chemcrow-public) |
 | ChemToolAgent | Yu, Baker, Chen, Herb, Gou, Adu-Ampratwum, Ning & Sun, "ChemToolAgent: The Impact of Tools on Language Agents for Chemistry Problem Solving," Findings of NAACL 2025; [arXiv:2411.07228](https://arxiv.org/abs/2411.07228) | [github.com/OSU-NLP-Group/ChemToolAgent](https://github.com/OSU-NLP-Group/ChemToolAgent) |
@@ -33,6 +33,7 @@ LLM-driven agents that orchestrate scientific tools. Excluded from this table: *
 | STELLA | Jin, Zhang, Wang & Cong, "STELLA: Self-Evolving LLM Agent for Biomedical Research," 2025; [arXiv:2507.02004](https://arxiv.org/abs/2507.02004); bioRxiv [10.1101/2025.07.01.662467](https://doi.org/10.1101/2025.07.01.662467) | arXiv:2507.02004 |
 | Robin | Ghareeb et al., "A multi-agent system for automating scientific discovery" (Robin), *Nature* (2026), DOI [10.1038/s41586-026-10652-y](https://doi.org/10.1038/s41586-026-10652-y) | [futurehouse.org](https://futurehouse.org) |
 | CellAgent | Xiao, Liu, Zheng et al., "CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis," 2024; [arXiv:2407.09811](https://arxiv.org/abs/2407.09811) | [cell.agent4science.cn](https://cell.agent4science.cn) |
+| scChat | Chiu, Varghese, Shao, Lu, Nahar, Chen, Deng, Bao & Li, "scChat: A large language model-powered co-pilot for contextualized single-cell RNA sequencing analysis," bioRxiv 2024, DOI [10.1101/2024.10.01.616063](https://doi.org/10.1101/2024.10.01.616063); peer-reviewed *AIChE Journal* (2026), DOI [10.1002/aic.70285](https://doi.org/10.1002/aic.70285) | [github.com/li-group/scChat](https://github.com/li-group/scChat) |
 | ChatNT | de Almeida, Richard, Dalla-Torre et al. (InstaDeep), "A multimodal conversational agent for DNA, RNA and protein tasks," *Nature Machine Intelligence* 7(6), 928–941 (2025), DOI [10.1038/s42256-025-01047-1](https://doi.org/10.1038/s42256-025-01047-1); bioRxiv [10.1101/2024.04.30.591835](https://doi.org/10.1101/2024.04.30.591835) | [github.com/instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer) |
 | TAIS | Liu, Li, Jian, Cheng et al., "Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data," 2024; [arXiv:2402.12391](https://arxiv.org/abs/2402.12391) | arXiv:2402.12391 |
 | GenoAgent | Liu, Chen, Zhang & Wang, baseline agent in "GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis," 2024; [arXiv:2406.15341](https://arxiv.org/abs/2406.15341) | [github.com/Liu-Hy/GenoTEX](https://github.com/Liu-Hy/GenoTEX) |

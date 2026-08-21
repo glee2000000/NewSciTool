@@ -8,7 +8,7 @@ title: Benchmarks
 
 Evaluation suites used to assess tool-using scientific agents. Excluded: **BioAgentBench** — the source research could not confirm the exact title/identity of the paper (closest match arXiv:2601.21800 unverified) and its repository was not resolvable.
 
-| Tool | Paper | Repo / Site |
+| Benchmark | Paper | Repo / Site |
 |---|---|---|
 | SciToolEval | Introduced within SciToolAgent (Ding et al., *Nature Computational Science* 5, 962–972 (2025), DOI [10.1038/s43588-025-00849-y](https://doi.org/10.1038/s43588-025-00849-y); [arXiv:2507.20280](https://arxiv.org/abs/2507.20280)) — 531 problems | [github.com/HICAI-ZJU/SciToolAgent](https://github.com/HICAI-ZJU/SciToolAgent) |
 | ScienceAgentBench | Chen, Chen, Ning et al. (Su, Sun), "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery," ICLR 2025; [arXiv:2410.05080](https://arxiv.org/abs/2410.05080) | [osu-nlp-group.github.io/ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench) |
