@@ -1,0 +1,5 @@
+title: SciToolKG Reference Catalog
+description: Canonical citations, agent-framework associations, and verified recent-usage anchors for the SciToolAgent tool catalog
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: false
